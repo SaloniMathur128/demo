@@ -10,7 +10,7 @@ public class Patterns {
 			System.out.println();
 		}
 	}
-	//right angle triangle of numbers
+	//right angle triangle of num
 	public static void numTriangle2(int n) {
 		
 		for(int i =1; i<=n; i++) {
